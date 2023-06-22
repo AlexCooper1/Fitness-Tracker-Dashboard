@@ -2,14 +2,16 @@
 
 A responsive webpage dashboard used to track a user's fitness and overall health
 
- ![Fitness Webpage Overview](https://github.com/AlexCooper1/Fitness-Tracker-Dashboard/assets/37124211/36058442-c9e8-46d1-8644-949c5037056f = 300x)
-
 
 ## Description
 
 Built with: CSS(CSS Grids), HTML5, JavaScript, Bootstrap
 
 The Fitness Tracker site is a personal project intended to practice UI design and responsive web development for a mobile-first multi-component website.
+
+<div width=200px>
+ ![Fitness Webpage Overview](https://github.com/AlexCooper1/Fitness-Tracker-Dashboard/assets/37124211/36058442-c9e8-46d1-8644-949c5037056f)
+</div>
 
 ## Getting Started
 
