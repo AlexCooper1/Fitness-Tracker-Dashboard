@@ -2,6 +2,9 @@
 
 A responsive webpage dashboard used to track a user's fitness and overall health
 
+ ![Fitness Webpage Overview](https://github.com/AlexCooper1/Fitness-Tracker-Dashboard/assets/37124211/36058442-c9e8-46d1-8644-949c5037056f)
+
+
 ## Description
 
 Built with: CSS(CSS Grids), HTML5, JavaScript, Bootstrap
@@ -19,6 +22,7 @@ The Fitness Tracker site is a personal project intended to practice UI design an
 Alex Cooper
 
 
-Inspiration, code snippets, etc.
+## Inspiration, code snippets, etc.
+
 * [alvaromonntoro's CodePen](https://codepen.io/alvaromontoro/pen/poWgdVV)
 * [salazarr-js's CodePen](https://codepen.io/salazarr-js/pen/eRoaLx)
