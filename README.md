@@ -2,7 +2,7 @@
 
 A responsive webpage dashboard used to track a user's fitness and overall health
 
- ![Fitness Webpage Overview](https://github.com/AlexCooper1/Fitness-Tracker-Dashboard/assets/37124211/36058442-c9e8-46d1-8644-949c5037056f){ width: 400px; }
+ ![Fitness Webpage Overview](https://github.com/AlexCooper1/Fitness-Tracker-Dashboard/assets/37124211/36058442-c9e8-46d1-8644-949c5037056f = 300x)
 
 
 ## Description
