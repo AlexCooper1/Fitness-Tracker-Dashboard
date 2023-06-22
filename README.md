@@ -17,7 +17,8 @@ The Fitness Tracker site is a personal project intended to practice UI design an
 
 ### Executing the program
 
-* Simply run the index.html file in your browser
+* Run the index.html file in your browser OR
+* Follow this link: https://taupe-phoenix-4a5de6.netlify.app/
 
 ## Authors
 
